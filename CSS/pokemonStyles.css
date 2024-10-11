@@ -1,0 +1,63 @@
+/*Atributos generales---------------------------------------*/
+.pokemonIndex{
+    min-width: 81px;
+    min-height: 81px;
+    background-color: #ccc;
+    border-style: double;
+    border-color: black;
+    display: block;   
+}
+.pokemonDex{
+    width: 75px;
+    height: 75px;
+    background-color: #ccc;
+    border-style: double;
+    border-color: grey;
+    float: left;
+}
+.pokemonDex img{
+    align:center;
+    width: 75px;
+    height: 75px;
+    
+}    
+
+/*AtributosPokeData*/
+#menuPokeData{
+    display: block;
+}
+#menuPokeData li{
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    background-color: salmon;
+}
+.pokeImg{
+    width: 200px;
+    height: 200px;
+}
+
+.name{
+    font-size: 48px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/*Atributos por tipo----------------------------------------*/
+.planta{
+    background-color: green;
+}
+.agua{
+    background-color: blue;
+}
+.fuego{
+    background-color: red;
+}
+.normal{
+    background-color: beige;
+}
+.electrico{
+    background-color: beige;
+}

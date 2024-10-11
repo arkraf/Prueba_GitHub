@@ -1,0 +1,30 @@
+/*Lista Pokemon*/
+INSERT INTO pokemon (pokeName, height, weight, generation) values('Bulbasaur',0.7,6.9,001);
+INSERT INTO pokemon (pokeName, height, weight, generation) values('Ivysaur',1.0,13.0,001);
+INSERT INTO pokemon (pokeName, height, weight, generation) values('Venusaur',2.0,100,001);
+INSERT INTO pokemon (pokeName, height, weight, generation) values('Charmander',0.6,8.5,001);
+INSERT INTO pokemon (pokeName, height, weight, generation) values('Charmeleon',1.1,19,001);
+INSERT INTO pokemon (pokeName, height, weight, generation) values('Charizard',1.7,90.5,001);
+INSERT INTO pokemon (pokeName, height, weight, generation) values('Squirtle',0.5,9,001);
+INSERT INTO pokemon (pokeName, height, weight, generation) values('Wartortle',1.0,22.5,001);
+INSERT INTO pokemon (pokeName, height, weight, generation) values('Blastoise',1.6,85.5,001);
+INSERT INTO pokemon (pokeName, height, weight, generation) values('Caterpie',0.3,2.9,001);
+INSERT INTO pokemon (pokeName, height, weight, generation) values('Metapod',0.7,9.9,001);
+INSERT INTO pokemon (pokeName, height, weight, generation) values('Butterfree',1.1,32,001);
+INSERT INTO pokemon (pokeName, height, weight, generation) values('Weedle',0.3,3.2,001);
+INSERT INTO pokemon (pokeName, height, weight, generation) values('Kakuna',0.6,10,001);
+INSERT INTO pokemon (pokeName, height, weight, generation) values('Beedril',1.0,29.5,001);
+INSERT INTO pokemon (pokeName, height, weight, generation) values('Pidgey',0.3,1.8,001);
+INSERT INTO pokemon (pokeName, height, weight, generation) values('Pidgeotto',1.1,30,001);
+INSERT INTO pokemon (pokeName, height, weight, generation) values('Pidgeot',1.5,39.5,001);
+INSERT INTO pokemon (pokeName, height, weight, generation) values('Rattata',0.3,3.5,001);
+INSERT INTO pokemon (pokeName, height, weight, generation) values('Raticate',0.7,18.5,001);
+INSERT INTO pokemon (pokeName, height, weight, generation) values('Spearow',0.3,2,001);
+INSERT INTO pokemon (pokeName, height, weight, generation) values('Fearow',1.2,38,001);
+INSERT INTO pokemon (pokeName, height, weight, generation) values('Ekans',2,6.9,001);
+INSERT INTO pokemon (pokeName, height, weight, generation) values('Arbok',3.5,65,001);
+INSERT INTO pokemon (pokeName, height, weight, generation) values('Pikachu',0.4,6.0,001);
+INSERT INTO pokemon (pokeName, height, weight, generation) values('Raichu',0.8,30,001);
+INSERT INTO pokemon (pokeName, height, weight, generation) values('Sandshrew',1,29.5,001);
+INSERT INTO pokemon (pokeName, height, weight, generation) values('Sandslash',1,29.5,001);
+

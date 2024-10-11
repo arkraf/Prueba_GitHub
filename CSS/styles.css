@@ -1,0 +1,48 @@
+/*General-------------------------------------------------*/
+#body{
+    
+}
+
+/*Encabezado----------------------------------------------*/
+
+.titulo{
+    font-size: 48px;
+    font-family:'Courier New', Courier, monospace;
+    background-color: black;
+    min-height: 50px;
+    min-width: 50px;
+    border-bottom: 2px;
+    border-right: 2px;
+    border-top: 2px;
+    border-left: 2px;
+    color: yellow;
+}
+.tituloDex{
+    font-size: 48px;
+    font-family:'Courier New', Courier, monospace;
+    background-image: url("../img/fondo_pokeball.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: block;
+    background-size: 100%;
+    min-height: 50px;
+    min-width: 50px;
+    border-bottom: 2px;
+    border-right: 2px;
+    border-top: 2px;
+    border-left: 2px;
+    color: yellow;
+}
+
+/*Menu de navegación---------------------------------------*/
+.menu{
+    background-color: #ccc;
+    display: block;
+    position: relative;
+    cursor: pointer;
+    border: solid 2px sienna;
+}
+
+.dropdown-menu{
+
+}
